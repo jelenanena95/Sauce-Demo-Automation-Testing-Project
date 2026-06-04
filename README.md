@@ -28,7 +28,7 @@ This project follows the Page Object Model (POM) design pattern to improve code 
 Open terminal in IDE and git clone the repository
 
 ``````
-git clone 
+git clone https://github.com/jelenanena95/Sauce-Demo-Automation-Testing-Project.git
 
 ``````
 
